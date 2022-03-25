@@ -1,0 +1,24 @@
+/* @import '~antd/dist/antd.css'; */
+
+.menuItemLogo{
+  display: flex;
+    width: 35%;
+}
+
+.menuBlock{
+  width: 50%;
+  /* background-color: blueviolet; */
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.menuItem{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* background-color: azure; */
+  margin: 3px;
+}
+

@@ -1,0 +1,13 @@
+.actionLogo{
+  width: 2vw;
+}
+
+.actionButton{
+  border: 0px;
+  background-color: white;
+  border-radius: 50px;
+}
+
+.actionButton:hover{
+  transform: scale(1.1);
+}
