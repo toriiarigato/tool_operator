@@ -14,28 +14,28 @@ function MainMenu(){
           <img src={worker.src} alt="worker."className={stylesMenu.menuItemLogo}/>
         </Tooltip>
         <br></br>
-        <h5>Gestion des opérateurs</h5>
+        <h5>Gérer les opérateurs</h5>
       </div>
       <div className={stylesMenu.menuItem}>
         <Tooltip title="sites" mouseLeaveDelay={0}>
           <img src={map.src} alt="map."className={stylesMenu.menuItemLogo}/>
         </Tooltip>
         <br></br>
-        <h5>Gestion des sites</h5>
+        <h5>Gérer les sites</h5>
       </div>
       <div className={stylesMenu.menuItem}>
         <Tooltip title="calendrier" mouseLeaveDelay={0}>
           <img src={calendar.src} alt="calendar."className={stylesMenu.menuItemLogo}/>
         </Tooltip>
         <br></br>
-        <h5>Calendrier</h5>
+        <h5>Voir le calendrier</h5>
       </div>
       <div className={stylesMenu.menuItem}>
         <Tooltip title="tâches" mouseLeaveDelay={0}>
           <img src={note.src} alt="note."className={stylesMenu.menuItemLogo}/>
         </Tooltip>
         <br></br>
-        <h5>Gestions des tâches</h5>
+        <h5>Liste des tâches</h5>
       </div>
 
     </div>

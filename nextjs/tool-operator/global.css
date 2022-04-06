@@ -55,7 +55,7 @@ body {
 }
 
 .profile{
-  background-color: aqua;
+  /* background-color: aqua; */
   margin-left: 3px;
   padding-top: 2%;
   display: flex;
@@ -84,8 +84,8 @@ body {
 }
 
 .menuContainer{
-  height: 23vh;
-  background-color: aquamarine;
+  height: 14vh;
+  /* background-color: aquamarine; */
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -97,7 +97,7 @@ body {
   padding: 10px;
   align-items: center;
   justify-content: center;
-  background-color: #6096c2;
+  /* background-color: #6096c2; */
 }
 
 

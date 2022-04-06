@@ -28,6 +28,7 @@ function accueil(){
     <h2>Que voulez-vous faire aujourd'hui?</h2>
     <MainMenu/>
     </div>
+    <br></br>
     <div className="listeTaches">
       <ListeTaches/>
     </div>
